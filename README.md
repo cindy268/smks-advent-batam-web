@@ -14,3 +14,6 @@ This project was developed as part of a team in an independent study program, fo
 - JavaScript
 - PHP
 - MySQL
+
+## 🚀 How to Run
+The source code and database for this website are kept private in a local computer environment for security reasons. This repository is used strictly for project documentation and portfolio display.
