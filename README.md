@@ -4,3 +4,13 @@ This project was developed as part of a team in an independent study program, fo
 
 ## 📸 Website Preview
 ![SMKS Advent Batam Website Preview](website.png)
+
+## 👤 Role
+- Full-Stack Web Developer (Team Project)
+
+## 🛠️ Tech Stack & Tools
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
