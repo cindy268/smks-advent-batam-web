@@ -9,11 +9,25 @@ This project was developed as part of a team in an independent study program, fo
 - Full-Stack Web Developer (Team Project)
 
 ## 🛠️ Tech Stack & Tools
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 🚀 How to Run
-The source code and database for this website are kept private in a local computer environment for security reasons. This repository is used strictly for project documentation and portfolio display.
+> **Important Notice:** The core source code and database for this website are currently kept private in a local computer environment for security and privacy reasons. This repository is used strictly for project documentation and portfolio display. 
+> 
+> However, for technical review purposes, below are the standard operational steps required to run this PHP-MySQL system locally once the environment is accessible:
+
+### Prerequisites
+* XAMPP (or any local server environment with Apache and MySQL)
+* PHP 8.x
+* Web Browser (Chrome, Edge, etc.)
+
+### Local Deployment Steps
+1. **Clone or Download the Project:** Place the project folder inside your local server directory (e.g., `C:/xampp/htdocs/`).
+2. **Database Setup:**
+   * Open your browser and go to `localhost/phpmyadmin`.
+   * Create a new database (e.g., `db_smks_advent`).
+   * Import the provided SQL database file (usually located in the `/database` or `/assets` folder) into your new database.
+3. **Configuration:** Open the database connection configuration file (e.g., `config.php` or `connection.php`) and adjust the database name, username (`root`), and password to match your local setup.
+4. **Run the Application:**
+   * Open XAMPP Control Panel and start **Apache** and **MySQL**.
+   * Open your web browser and navigate to `http://localhost/folder_nama_proyek/`.
